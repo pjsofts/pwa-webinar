@@ -1,0 +1,38 @@
+body {
+    background-color: #f0f0f0;
+}
+
+h1 {
+    user-select: none;
+    -webkit-user-select: none;
+    }
+
+input {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+button {
+    border: 1px solid #ccc;
+    padding: 10px;
+    cursor: pointer;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    font-size: 2rem;
+    line-height: 2;
+    
+}
+ul li {
+    border: 1px solid #ccc;
+    width: 400px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#install-btn {
+    display: none;
+}

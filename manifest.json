@@ -1,0 +1,21 @@
+{
+    "id": "/",
+    "name": "My Todo App",
+    "short_name": "Todo",
+    "description": "An app created in the webinar",
+    "lang": "en",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#f0f0f0",
+    "theme_color": "#0000ff",
+    "orientation": "portrait",
+    "icons": [
+      {
+        "src": "/icons/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
